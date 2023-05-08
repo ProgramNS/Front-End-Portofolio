@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "name": "front-end-portofolio",
+  "version": "1.0.0",
+  "description": "Submission Dicoding",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "author": "Nurman Syah",
+  "license": "ISC"
+}
